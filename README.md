@@ -1,4 +1,4 @@
-### Github stats
+### Public repos stats
 [![Maaartyyynaa's public repos stats](https://github-readme-stats.vercel.app/api?username=maaartyyynaa&count_private=true&show_icons=true&hide=stars,issues&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
