@@ -1,5 +1,5 @@
 ### technologies & tools
-![](https://img.shields.io/badge/<OS>-<macOS>-informational?style=flat&logo=<macos>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 
 
 ### Public repos stats
