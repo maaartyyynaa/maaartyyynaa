@@ -1,5 +1,5 @@
 ## experience
-![](https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png =55)
+![](https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png)
 
 
 **april 2021 - present · software engineer**\
