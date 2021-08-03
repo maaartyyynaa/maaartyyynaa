@@ -1,10 +1,7 @@
 ### experience
-**
 <img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">april 2021 - present · software engineer\
-<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">september 2019 - april 2021 · junior software engineer\
-<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">august 2018 - september 2019 · backend developer intern\
-**
-
+<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">**september 2019 - april 2021 · junior software engineer\**
+<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">**august 2018 - september 2019 · backend developer intern\**
 
 ### technologies & tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=gnubash&logoColor=white&color=fbcce7)
@@ -14,6 +11,8 @@
 ![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/code-MediaWiki-informational?style=flat&logo=fandom&logoColor=white&color=fbcce7)
+![](https://img.shields.io/badge/code-html-informational?style=flat&logo=html&logoColor=white&color=fbcce7)
+![](https://img.shields.io/badge/code-css-informational?style=flat&logo=css&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-k8s-informational?style=flat&logo=kubernetes&logoColor=white&color=fbcce7)
