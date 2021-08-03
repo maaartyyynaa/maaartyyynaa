@@ -1,5 +1,6 @@
 ## experience
-![](https://github.com/maaartyyynaa/resources/blob/master/rsz_1fandom-text.png)
+<!-- ![](https://github.com/maaartyyynaa/resources/blob/master/rsz_1fandom-text.png) -->
+### fandom
 april 2021 - present · software engineer\
 september 2019 - april 2021 · junior software engineer\
 august 2018 - september 2019 · backend developer intern\
