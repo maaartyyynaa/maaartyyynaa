@@ -2,9 +2,9 @@
 ![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom-color.png)
 
 ### fandom
-**april 2021 - present · software engineer**\
-**september 2019 - april 2021 · junior software engineer**\
-**august 2018 - september 2019 · backend developer intern**\
+april 2021 - present · software engineer\
+september 2019 - april 2021 · junior software engineer\
+august 2018 - september 2019 · backend developer intern\
 <!--
 <img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">
 <img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">
