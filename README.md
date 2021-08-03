@@ -1,5 +1,6 @@
 ### experience
-![](https://github.com/maaartyyynaa/resources/blob/master/fandom.svg?raw=true)
+<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom.svg" width="48">
+
 
 
 ### technologies & tools
