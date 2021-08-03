@@ -1,6 +1,5 @@
 ## experience
-#### fandom <img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="55">
-![]("https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" =55)
+![](https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png =55)
 
 
 **april 2021 - present · software engineer**\
