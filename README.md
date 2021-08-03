@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/tools-swagger-informational?style=flat&logo=swagger&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-jira-informational?style=flat&logo=jira&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-confluence-informational?style=flat&logo=confluence&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-kibana-informational?style=flat&logo=kibana&logoColor=white&color=fbcce7)
+![](https://img.shields.io/badge/tools-kibana-informational?style=flat&logo=kibana&logoColor=white&color=fbcce7) 
 
 
 ## public repos stats
