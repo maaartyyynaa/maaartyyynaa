@@ -1,6 +1,5 @@
 ## experience
-<!-- ![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom_logo_2021_lockup_1.png) -->
-### fandom
+![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom_logo_2021_lockup_1.png)
 **software engineer** · april 2021 - present\
 **junior software engineer** · september 2019 - april 2021\
 **backend developer intern** · august 2018 - september 2019
