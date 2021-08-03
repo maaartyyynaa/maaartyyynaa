@@ -1,6 +1,6 @@
-### experience
+## experience
 <img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="55">\
-##### fandom\
+#### fandom
 **april 2021 - present · software engineer**\
 **september 2019 - april 2021 · junior software engineer**\
 **august 2018 - september 2019 · backend developer intern**\
@@ -9,7 +9,7 @@
 <img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">
 -->
 
-### technologies & tools
+## technologies & tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=gnubash&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/shell-bash-informational?style=flat&logo=javascript&logoColor=white&color=fbcce7)
@@ -29,7 +29,7 @@
 ![](https://img.shields.io/badge/tools-confluence-informational?style=flat&logo=confluence&logoColor=white&color=fbcce7)
 
 
-### public repos stats
+## public repos stats
 [![Maaartyyynaa's public repos stats](https://github-readme-stats.vercel.app/api?username=maaartyyynaa&count_private=true&show_icons=true&hide=stars,issues&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
