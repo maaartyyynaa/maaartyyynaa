@@ -5,13 +5,15 @@
 ![](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/code-MediaWiki-informational?style=flat&logo=mediawiki&logoColor=white&color=fbcce7)
+![](https://img.shields.io/badge/code-MediaWiki-informational?style=flat&logo=fandom&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-k8s-informational?style=flat&logo=kubernetes&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-jenkins-informational?style=flat&logo=kubernetes&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-rabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/tools-swagger-informational?style=flat&logo=swagger&logoColor=white&color=fbcce7)
+![](https://img.shields.io/badge/tools-jira-informational?style=flat&logo=jira&logoColor=white&color=fbcce7)
+![](https://img.shields.io/badge/tools-confluence-informational?style=flat&logo=confluence&logoColor=white&color=fbcce7)
 
 
 ### Public repos stats
