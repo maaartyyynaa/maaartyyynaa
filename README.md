@@ -1,5 +1,5 @@
 ### experience
-<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="48">
+<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="38">
 
 
 
