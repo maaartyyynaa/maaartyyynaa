@@ -1,5 +1,5 @@
 ## experience
-![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom-color.png)
+![#f03c15](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom-color.png) `#f03c15`
 
 ### fandom
 april 2021 - present · software engineer\
