@@ -1,3 +1,7 @@
+### experience
+![](https://github.com/maaartyyynaa/resources/blob/master/fandom.svg?raw=true)
+
+
 ### technologies & tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=gnubash&logoColor=white&color=fbcce7)
 ![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white&color=fbcce7)
@@ -16,7 +20,7 @@
 ![](https://img.shields.io/badge/tools-confluence-informational?style=flat&logo=confluence&logoColor=white&color=fbcce7)
 
 
-### Public repos stats
+### public repos stats
 [![Maaartyyynaa's public repos stats](https://github-readme-stats.vercel.app/api?username=maaartyyynaa&count_private=true&show_icons=true&hide=stars,issues&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
