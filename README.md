@@ -1,7 +1,7 @@
 ### experience
-<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">**april 2021 - present · software engineer\**
-<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">**september 2019 - april 2021 · junior software engineer\**
-<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">**august 2018 - september 2019 · backend developer intern\**
+<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15"> ** april 2021 - present · software engineer\ **
+<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15"> ** september 2019 - april 2021 · junior software engineer\ **
+<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15"> ** august 2018 - september 2019 · backend developer intern\ **
 
 
 
