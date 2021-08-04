@@ -1,52 +1,44 @@
-## experience
-![](https://github.com/maaartyyynaa/resources/blob/master/rsz_1fandom_logo_2021_lockup_1.png)\
-**software engineer** · april 2021 - present\
-**junior software engineer** · september 2019 - april 2021\
-**backend developer intern** · august 2018 - september 2019
+## Hi 👋🏻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c084c4&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
 <!--
-<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">
-<img src="https://github.com/maaartyyynaa/resources/blob/master/fandom-color.png" width="15">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9aedff&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
+source: https://github.com/DenverCoder1/readme-typing-svg
 -->
+* 👩🏻‍💻 I'm a software engineer currently working at [Fandom](https://www.fandom.com/) ![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom_logo_2021_lockup_1.png)
+* 🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in **bioinformatics**
 
-## technologies & tools
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=gnubash&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/OS-linux-informational?style=flat&logo=linux&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/shell-bash-informational?style=flat&logo=javascript&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/code-python-informational?style=flat&logo=python&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/code-MediaWiki-informational?style=flat&logo=fandom&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/code-html-informational?style=flat&logo=html&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/code-css-informational?style=flat&logo=css&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-k8s-informational?style=flat&logo=kubernetes&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-jenkins-informational?style=flat&logo=kubernetes&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-rabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-swagger-informational?style=flat&logo=swagger&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-jira-informational?style=flat&logo=jira&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-confluence-informational?style=flat&logo=confluence&logoColor=white&color=fbcce7)
-![](https://img.shields.io/badge/tools-kibana-informational?style=flat&logo=kibana&logoColor=white&color=fbcce7) 
+## 🔍 find me
+* LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka
+* Github: https://github.com/maaartyyynaa
+* Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724
+* Gitlab: https://gitlab.com/maaartyyynaa
+
+## 🛠 technologies & tools I worked with
+### languages
+![](https://img.shields.io/badge/-python-informational?style=flat&logo=python&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/-django-informational?style=flat&logo=django&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/-flask-informational?style=flat&logo=flask&logoColor=white&color=c084c4) \
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/MediaWiki-informational?style=flat&logo=&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/mySQL-informational?style=flat&logo=mysql&logoColor=white&color=c084c4) \
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/html-informational?style=flat&logo=html&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/css-informational?style=flat&logo=css&logoColor=white&color=c084c4)
+### tools
+![](https://img.shields.io/badge/docker-informational?style=flat&logo=docker&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/k8s-informational?style=flat&logo=kubernetes&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=c084c4) \
+![](https://img.shields.io/badge/rabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/kibana-informational?style=flat&logo=kibana&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/swagger-informational?style=flat&logo=swagger&logoColor=white&color=c084c4)
+### other
+![](https://img.shields.io/badge/macOS-informational?style=flat&logo=gnubash&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/linux-informational?style=flat&logo=linux&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/bash-informational?style=flat&logo=javascript&logoColor=white&color=c084c4) \
+![](https://img.shields.io/badge/jira-informational?style=flat&logo=jira&logoColor=white&color=c084c4)
+![](https://img.shields.io/badge/confluence-informational?style=flat&logo=confluence&logoColor=white&color=c084c4)
 
 <!--
 ## public repos stats
 [![Maaartyyynaa's public repos stats](https://github-readme-stats.vercel.app/api?username=maaartyyynaa&count_private=true&show_icons=true&hide=stars,issues&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
-
-
-<!--
-**maaartyyynaa/maaartyyynaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
