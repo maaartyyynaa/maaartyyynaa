@@ -4,7 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9aedff&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
 source: https://github.com/DenverCoder1/readme-typing-svg
 -->
-* 👩🏻‍💻 I'm a software engineer currently working at [Fandom](https://www.fandom.com/) ![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom_logo_2021_lockup_1.png)
+<!--
+![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom_logo_2021_lockup_1.png)
+-->
+
+* 👩🏻‍💻 I'm a software engineer currently working at [Fandom](https://www.fandom.com/)
 * 🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in **bioinformatics**
 
 ## 🔍 find me
@@ -13,7 +17,7 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 * Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724
 * Gitlab: https://gitlab.com/maaartyyynaa
 
-<img src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="80" />
+<img src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="150" />
 
 ## 🛠 technologies & tools I worked with
 ### languages
