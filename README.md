@@ -9,12 +9,12 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 
 <img align="center" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
 -->
-
-* 👩🏻‍💻 I'm a software engineer currently working at [Fandom](https://www.fandom.com/)
-* 🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in **bioinformatics**
-
-## 🔍 find me
 <img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
+<ul>
+  <li> 👩🏻‍💻 I'm a software engineer currently working at [Fandom](https://www.fandom.com/) </li> 
+  <li> 🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in **bioinformatics** </li> 
+</ul>
+## 🔍 find me
 <ul>
   <li> LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka</li>
   <li> Github: https://github.com/maaartyyynaa</li>
