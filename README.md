@@ -8,16 +8,16 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 ![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom_logo_2021_lockup_1.png)
 -->
 
-* 👩🏻‍💻 I'm a software engineer currently working at [Fandom](https://www.fandom.com/)
-* 🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in **bioinformatics**
+👩🏻‍💻 I'm a software engineer currently working at [Fandom](https://www.fandom.com/)
+🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in **bioinformatics**
+
+<img align="center" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="300" />
 
 ## 🔍 find me
 * LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka
 * Github: https://github.com/maaartyyynaa
 * Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724
 * Gitlab: https://gitlab.com/maaartyyynaa
-
-<img align="center" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="300" />
 
 ## 🛠 technologies & tools I worked with
 ### languages
