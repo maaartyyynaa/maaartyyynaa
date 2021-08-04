@@ -15,6 +15,7 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 </ul>
 
 ## 🔍 find me
+<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
 <ul>
   <li> LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka</li>
   <li> Github: https://github.com/maaartyyynaa</li>
@@ -23,7 +24,6 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 </ul>
 
 ## 🛠 technologies & tools I worked with
-<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
 ### languages
 ![](https://img.shields.io/badge/-python-informational?style=flat&logo=python&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/-django-informational?style=flat&logo=django&logoColor=white&color=c084c4)
