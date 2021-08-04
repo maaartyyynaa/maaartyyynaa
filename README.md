@@ -14,7 +14,7 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 * 🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in **bioinformatics**
 
 ## 🔍 find me
-<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="300">
+<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
 <ul>
   <li> LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka</li>
   <li> Github: https://github.com/maaartyyynaa</li>
