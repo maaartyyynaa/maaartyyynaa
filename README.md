@@ -14,11 +14,11 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 * 🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in **bioinformatics**
 
 ## 🔍 find me
-<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" /></br>
-* LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka
-* Github: https://github.com/maaartyyynaa
-* Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724
-* Gitlab: https://gitlab.com/maaartyyynaa
+<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
+* LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka \
+* Github: https://github.com/maaartyyynaa \
+* Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724 \
+* Gitlab: https://gitlab.com/maaartyyynaa \
 
 ## 🛠 technologies & tools I worked with
 ### languages
