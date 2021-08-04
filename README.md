@@ -1,5 +1,4 @@
 ## Hi 👋🏻
-<p><img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250"></p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c084c4&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9aedff&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
@@ -24,6 +23,7 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 </ul>
 
 ## 🛠 technologies & tools I worked with
+<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
 ### languages
 ![](https://img.shields.io/badge/-python-informational?style=flat&logo=python&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/-django-informational?style=flat&logo=django&logoColor=white&color=c084c4)
