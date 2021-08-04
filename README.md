@@ -13,6 +13,8 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 * Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724
 * Gitlab: https://gitlab.com/maaartyyynaa
 
+<img src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="80" />
+
 ## 🛠 technologies & tools I worked with
 ### languages
 ![](https://img.shields.io/badge/-python-informational?style=flat&logo=python&logoColor=white&color=c084c4)
