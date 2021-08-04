@@ -10,9 +10,10 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 <img align="center" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
 -->
 <img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
+
 <ul>
-  <li> 👩🏻‍💻 I'm a software engineer currently working at [Fandom](https://www.fandom.com/) </li> 
-  <li> 🔬 I graduated from [UAM Poznań](https://amu.edu.pl/) with a bachelor's degree in <b>bioinformatics</b> </li> 
+  <li> 👩🏻‍💻 I'm a software engineer currently working at <a href="https://www.fandom.com/">Fandom</a></li> 
+  <li> 🔬 I graduated from <b>UAM Poznań</b> with a bachelor's degree in <b>bioinformatics</b> </li> 
 </ul>
 
 ## 🔍 find me
