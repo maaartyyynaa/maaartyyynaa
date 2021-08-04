@@ -29,12 +29,12 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 ![](https://img.shields.io/badge/-django-informational?style=flat&logo=django&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/-flask-informational?style=flat&logo=flask&logoColor=white&color=c084c4) \
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=c084c4)
-![](https://img.shields.io/badge/MediaWiki-informational?style=flat&logo=&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/mySQL-informational?style=flat&logo=mysql&logoColor=white&color=c084c4) \
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/html-informational?style=flat&logo=html&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/css-informational?style=flat&logo=css&logoColor=white&color=c084c4)
 ### tools
+![](https://img.shields.io/badge/MediaWiki-informational?style=flat&logo=&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/docker-informational?style=flat&logo=docker&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/k8s-informational?style=flat&logo=kubernetes&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=c084c4) \
