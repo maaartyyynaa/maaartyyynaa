@@ -15,7 +15,9 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 
 ## 🔍 find me
 <img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200">
-* LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka \
+<li>
+  <ul> LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka \</ul>
+</li>
 * Github: https://github.com/maaartyyynaa \
 * Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724 \
 * Gitlab: https://gitlab.com/maaartyyynaa \
