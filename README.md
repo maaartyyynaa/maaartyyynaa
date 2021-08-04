@@ -17,7 +17,7 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 * Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724
 * Gitlab: https://gitlab.com/maaartyyynaa
 
-<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="300" />
+<img align="center" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="300" />
 
 ## 🛠 technologies & tools I worked with
 ### languages
