@@ -14,7 +14,7 @@ source: https://github.com/DenverCoder1/readme-typing-svg
   <li> 🔬 I graduated from <b>UAM Poznań</b> with a bachelor's degree in <b>bioinformatics</b> </li> 
 </ul>
 -->
-👩🏻‍💻 I'm a software engineer currently working at <a href="https://www.fandom.com/">Fandom</a><
+👩🏻‍💻 I'm a software engineer currently working at <a href="https://www.fandom.com/">Fandom</a>
 ## 🔍 find me
 <img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
 <ul>
