@@ -24,7 +24,7 @@ source: https://github.com/DenverCoder1/readme-typing-svg
   <li> Gitlab: https://gitlab.com/maaartyyynaa</li>
 </ul>
 
-## 🛠 technologies & tools I worked with
+## 🛠 technologies & tools I have worked with
 ### languages
 ![](https://img.shields.io/badge/-python-informational?style=flat&logo=python&logoColor=white&color=c084c4)
 ![](https://img.shields.io/badge/-django-informational?style=flat&logo=django&logoColor=white&color=c084c4)
