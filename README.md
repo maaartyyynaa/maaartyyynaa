@@ -13,10 +13,10 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 </ul>
 -->
 👩🏻‍💻 I'm a software engineer currently working at <a href="https://www.fandom.com/">Fandom</a>
+
 <img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
 
 ## 🔍 find me
-<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
 <ul>
   <li> LinkedIn: www.linkedin.com/in/maaartyyynaa-nowicka</li>
   <li> Medium: https://medium.com/@martynanowicka</li>
