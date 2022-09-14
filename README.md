@@ -40,7 +40,7 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 ![](https://img.shields.io/badge/k8s-informational?style=flat&logo=kubernetes&logoColor=black&color=D6CBDB)
 ![](https://img.shields.io/badge/jenkins-informational?style=flat&logo=jenkins&logoColor=black&color=D6CBDB) \
 ![](https://img.shields.io/badge/rabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=black&color=D6CBDB)
-![](https://img.shields.io/badge/kibana-informational?style=flat&logo=kibana&logoColor=black&color=D6CBDB) \
+![](https://img.shields.io/badge/kibana-informational?style=flat&logo=kibana&logoColor=black&color=D6CBDB)
 <!-- ![](https://img.shields.io/badge/swagger-informational?style=flat&logo=swagger&logoColor=black&color=D6CBDB) \ -->
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=gnubash&logoColor=black&color=D6CBDB)
 ![](https://img.shields.io/badge/linux-informational?style=flat&logo=linux&logoColor=black&color=D6CBDB)
