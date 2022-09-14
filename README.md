@@ -1,8 +1,5 @@
 ## Hi 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6CBDB&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
-
-<img align="center" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
-
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9aedff&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
 source: https://github.com/DenverCoder1/readme-typing-svg
@@ -16,6 +13,8 @@ source: https://github.com/DenverCoder1/readme-typing-svg
 </ul>
 -->
 👩🏻‍💻 I'm a software engineer currently working at <a href="https://www.fandom.com/">Fandom</a>
+<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
+
 ## 🔍 find me
 <img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250">
 <ul>
