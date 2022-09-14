@@ -1,4 +1,7 @@
 ## Hi 👋🏻
+
+<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6CBDB&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9aedff&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
@@ -20,8 +23,6 @@ source: https://github.com/DenverCoder1/readme-typing-svg
   <li> Wikimedia Code Review: https://gerrit.wikimedia.org/r/dashboard/7724</li>
   <li> Gitlab: https://gitlab.com/maaartyyynaa</li>
 </ul>
-
-<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
 
 ## 🛠 technologies & tools I have worked with
 ### languages
