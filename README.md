@@ -1,13 +1,14 @@
 ## Hi 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6CBDB&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
+
+<img align="center" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9aedff&lines=I'm+Martyna;I'm+software+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
 source: https://github.com/DenverCoder1/readme-typing-svg
 -->
 <!--
 ![](https://github.com/maaartyyynaa/resources/blob/master/rsz_fandom_logo_2021_lockup_1.png)
-
-<img align="center" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" />
 
 <ul>
   <li> 👩🏻‍💻 I'm a software engineer currently working at <a href="https://www.fandom.com/">Fandom</a></li> 
