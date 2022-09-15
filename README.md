@@ -1,6 +1,6 @@
 ## Hi 👋🏻
 
-<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="250" alt=""/>
+<img align="right" src="https://github.com/maaartyyynaa/resources/blob/master/it-crowd.gif" width="200" alt=""/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6CBDB&lines=I'm+Martyna;I'm+backend+engineer;Currently+working+at+Fandom)](https://git.io/typing-svg)
 <!--
